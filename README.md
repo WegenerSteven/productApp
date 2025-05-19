@@ -1,0 +1,3 @@
+DOM manipulation 
+OOP
+IndexDB
